@@ -6,7 +6,7 @@ import plotly.express as px
 st.title("FINAL PROJECT")
 
 with st.expander("Show dataset"):
-    df = pd.read_csv("C:\\Level_4_project1\\mystery_books_final.csv")
+    df = pd.read_csv("mystery_books_final.csv")
     st.write(df.head(400))
 
 
