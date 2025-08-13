@@ -1,6 +1,8 @@
-init
+streamlit
 pandas
 numpy
+matplotlib
+scikit-learn
 plotly.express
 plotly
 seaborn
